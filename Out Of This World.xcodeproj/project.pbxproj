@@ -89,8 +89,6 @@
 				A90CF4F81B507D520040D8FC /* Main.storyboard */,
 				A90CF5141B507E8B0040D8FC /* OuterSpaceTableViewController.h */,
 				A90CF5151B507E8B0040D8FC /* OuterSpaceTableViewController.m */,
-				A9015C831B5426D500396661 /* AstronomicalData.h */,
-				A9015C841B5426D500396661 /* AstronomicalData.m */,
 				A90CF4FB1B507D520040D8FC /* Images.xcassets */,
 				A90CF4FD1B507D520040D8FC /* LaunchScreen.xib */,
 				A90CF4EE1B507D520040D8FC /* Supporting Files */,
@@ -101,6 +99,8 @@
 		A90CF4EE1B507D520040D8FC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A9015C831B5426D500396661 /* AstronomicalData.h */,
+				A9015C841B5426D500396661 /* AstronomicalData.m */,
 				A90CF4EF1B507D520040D8FC /* Info.plist */,
 				A90CF4F01B507D520040D8FC /* main.m */,
 			);

@@ -48,6 +48,7 @@
 //    [myDict setObject:firstColor forKey:@"firetruck color"];
 //    [myDict setObject:@"blue" forKey:@"ocean color"];
 //    [myDict setObject:@"yellow" forKey:@"star color"];
+    NSNumber *num = [NSNumber numberWithInt:5];
 }
 
 - (void)didReceiveMemoryWarning {
