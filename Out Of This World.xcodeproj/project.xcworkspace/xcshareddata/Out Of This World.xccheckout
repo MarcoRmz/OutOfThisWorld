@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>DEA08957-57B9-4923-B326-B5C054ED9D39</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Out Of This World</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>1DEAECBEB9C23FBAA499F34740D9B623219E69A5</key>
 		<string>github.com:MarcoRmz/OutOfThisWorld.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Out Of This World.xcodeproj/project.xcworkspace</string>
+	<string>Out Of This World.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>1DEAECBEB9C23FBAA499F34740D9B623219E69A5</key>

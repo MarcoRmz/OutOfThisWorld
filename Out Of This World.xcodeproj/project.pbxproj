@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A9015C851B5426D500396661 /* AstronomicalData.m in Sources */ = {isa = PBXBuildFile; fileRef = A9015C841B5426D500396661 /* AstronomicalData.m */; };
 		A90CF4F11B507D520040D8FC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A90CF4F01B507D520040D8FC /* main.m */; };
 		A90CF4F41B507D520040D8FC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A90CF4F31B507D520040D8FC /* AppDelegate.m */; };
 		A90CF4FA1B507D520040D8FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A90CF4F81B507D520040D8FC /* Main.storyboard */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A9015C831B5426D500396661 /* AstronomicalData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AstronomicalData.h; sourceTree = "<group>"; };
+		A9015C841B5426D500396661 /* AstronomicalData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AstronomicalData.m; sourceTree = "<group>"; };
 		A90CF4EB1B507D520040D8FC /* Out Of This World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Out Of This World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A90CF4EF1B507D520040D8FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A90CF4F01B507D520040D8FC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -86,6 +89,8 @@
 				A90CF4F81B507D520040D8FC /* Main.storyboard */,
 				A90CF5141B507E8B0040D8FC /* OuterSpaceTableViewController.h */,
 				A90CF5151B507E8B0040D8FC /* OuterSpaceTableViewController.m */,
+				A9015C831B5426D500396661 /* AstronomicalData.h */,
+				A9015C841B5426D500396661 /* AstronomicalData.m */,
 				A90CF4FB1B507D520040D8FC /* Images.xcassets */,
 				A90CF4FD1B507D520040D8FC /* LaunchScreen.xib */,
 				A90CF4EE1B507D520040D8FC /* Supporting Files */,
@@ -222,6 +227,7 @@
 				A90CF5161B507E8B0040D8FC /* OuterSpaceTableViewController.m in Sources */,
 				A90CF4F41B507D520040D8FC /* AppDelegate.m in Sources */,
 				A90CF4F11B507D520040D8FC /* main.m in Sources */,
+				A9015C851B5426D500396661 /* AstronomicalData.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +422,7 @@
 				A90CF5101B507D520040D8FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A90CF5111B507D520040D8FC /* Build configuration list for PBXNativeTarget "Out Of This WorldTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +431,7 @@
 				A90CF5131B507D520040D8FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

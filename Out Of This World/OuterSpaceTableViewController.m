@@ -42,6 +42,12 @@
     [self.planets addObject:planet6];
     [self.planets addObject:planet7];
     [self.planets addObject:planet8];
+    
+//    NSMutableDictionary *myDict = [[NSMutableDictionary alloc] init];
+//    NSString *firstColor = @"red";
+//    [myDict setObject:firstColor forKey:@"firetruck color"];
+//    [myDict setObject:@"blue" forKey:@"ocean color"];
+//    [myDict setObject:@"yellow" forKey:@"star color"];
 }
 
 - (void)didReceiveMemoryWarning {
